@@ -5,4 +5,15 @@ body {
 H1 {
   font-family: sans-serif;
   color: red;
+  text-align: center;
 }
+
+p {
+text-align: center;
+font-family: sans-serif;
+
+}
+ canvas {
+   position: relative;
+   left: 34em;
+ }
